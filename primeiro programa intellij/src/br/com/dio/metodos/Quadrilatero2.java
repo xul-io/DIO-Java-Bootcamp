@@ -1,6 +1,7 @@
 package br.com.dio.metodos;
 
 public class Quadrilatero2 {
+    //Quadrilatero2 muda a conta de acordo com o número de entradas
     public static void main(String[] args) {
         System.out.println("Exercício retornos");
 
