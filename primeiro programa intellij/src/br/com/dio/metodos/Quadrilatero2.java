@@ -3,7 +3,6 @@ package br.com.dio.metodos;
 public class Quadrilatero2 {
     //Quadrilatero2 muda a conta de acordo com o número de entradas
     //Esse exercício se trata de retornos, em que é necessário que o retorno do método seja o mesmo tipo do método
-    //TODO reavaliar os codigos
     public static void main(String[] args) {
         System.out.println("Exercício retornos");
 

@@ -7,6 +7,8 @@ public class Quadrilatero {
         area(4,3,5);
         area(3f, 7f);
     }
+    //Pode-se reparar que com um tipo de entrada diferente há um método diferente
+    //Isso é chamado de sobrecarga
     public static void area(double lado){
         System.out.println("Área do quadrilátero:" + (lado * lado));
     }
